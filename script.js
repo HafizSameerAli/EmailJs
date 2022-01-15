@@ -15,7 +15,7 @@ btn.addEventListener('click', () => {
     //Host: "outlook.office365.com",
         Host: "smtp.office365.com",
         Username: "sameer.ali@dominos.com.pk",
-        Password: "qweqwe852963+-",
+        Password: "",
         To: "sameer.ali@dominos.com.pk",
         From: "sameer.ali@dominos.com.pk",
         Subject: "Contact Us Query By the Customer",
