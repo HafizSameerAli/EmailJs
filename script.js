@@ -14,10 +14,10 @@ btn.addEventListener('click', () => {
 
     //Host: "outlook.office365.com",
         Host: "smtp.office365.com",
-        Username: "sameer.ali@dominos.com.pk",
-        Password: "",
-        To: "sameer.ali@dominos.com.pk",
-        From: "sameer.ali@dominos.com.pk",
+        Username: "...........",
+        Password: "...........",
+        To: "..........",
+        From: "..........",
         Subject: "Contact Us Query By the Customer",
         Body: email +"<br>"+ msg + "<br>" + name + "<br>" + phone
     }).then(msg => alert("The email send successfully sent"))
